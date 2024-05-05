@@ -1,0 +1,53 @@
+{
+  "blogs":[
+      {
+          "title": "Chocolate Cake",
+          "content": "", 
+          "image": "/assets/cake1.avif",
+          "author": "Steve Harry", 
+          "id": 1
+      },
+      {
+          "title": "Crunchy Chips",
+          "content": "lorem ipsum...", 
+          "image": "/assets/chips1.avif",
+          "author": "Brandon Curry", 
+          "id": 2
+      },
+      {
+          "title": "Mellate Chopped",
+          "content": "lorem ipsum...", 
+          "image": "/assets/food-bg.avif",
+          "author": "Brandon Curry", 
+          "id": 3
+      },
+      {
+          "title": "Banana",
+          "content": "lorem ipsum...", 
+          "image": "/assets/banana1.avif",
+          "author": "Brandon Curry", 
+          "id": 4
+      },
+      {
+          "title": "Sweet Rice",
+          "content": "lorem ipsum...",
+          "image": "/assets/rice1.avif", 
+          "author": "Brandon Curry", 
+          "id": 5
+      },
+      {
+          "title": "Fried Chips",
+          "content": "lorem ipsum...", 
+          "image": "/assets/chips2.avif",
+          "author": "Brandon Curry", 
+          "id": 6
+      },
+      {
+          "title": "Buttery cake",
+          "content": "lorem ipsum...", 
+          "image": "/assets/cake2.avif",
+          "author": "Benson Jerry", 
+          "id": 7
+      }
+  ]
+}
